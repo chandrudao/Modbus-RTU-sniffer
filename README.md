@@ -16,7 +16,7 @@ A Python script to sniff Modbus RTU traffic over a serial port.
 ## Usage
 1. Connect serial device.
 2. Install: `pip install pyserial`
-3. Run: `python modbus_sniffer.py` or `chmod +x modbus_sniffer.py && ./modbus_sniffer.py`
+3. Run: `python Modbus_RTU_sniffer.py` or `chmod +x Modbus_RTU_sniffer.py && ./Modbus_RTU_sniffer.py`
 4. Stop: `Ctrl+C`
 
 ## Configuration
